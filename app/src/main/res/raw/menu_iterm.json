@@ -1,0 +1,29 @@
+[
+  {
+    "idBo": 1,
+    "title": "Câu chuyện 1",
+    "image": "https://wikici.com/Upload/chu-ky/chu-ky-ten-k-bill-smith-demo-ttf.jpeg",
+    "description": "Short description of comic 1.",
+    "author": "Tác giả 1",
+    "publicationDate": "2023-01-01",
+    "content": "This is the detailed content of comic 1."
+  },
+  {
+    "idBo": 2,
+    "title": "Câu chuyện 2",
+    "image": "https://cms.lichngaytot.com/medias/original/2015/4/10/Ten-goi-may-man-thuoc-van-V.jpg",
+    "description": "Short description of comic 2.",
+    "author": "Tác giả 2",
+    "publicationDate": "2023-02-01",
+    "content": "This is the detailed content of comic 2."
+  },
+  {
+    "idBo": 4,
+    "title": "Câu chuyện 4",
+    "image": "https://cms.lichngaytot.com/medias/original/2015/4/10/Ten-goi-may-man-thuoc-van-V.jpg",
+    "description": "Câu chuyện được mở ra vào ngày 2023-05-18",
+    "author": "Chí Trung",
+    "publicationDate": "2023-05-18",
+    "content": "Mong công việc được thuận lợi."
+  }
+]
